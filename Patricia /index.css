@@ -1,0 +1,43 @@
+body{
+	background-color: white
+}
+h1{
+	color: DeepSkyBlue;
+	text-align: center;
+	font-style: bold;
+	font-family: "Lucida Console", Monaco, monospace;
+}
+h2{
+	color: Crimson;
+	font-family: "Lucida Console", Monaco, monospace;
+}
+h3{
+	color: LightPink;
+	font-family: "Lucida Console", Monaco, monospace;
+}
+article {
+    margin-left: 190px;
+    border-left: 1px solid gray;
+    border-bottom: 1px solid gray;
+    padding: 1em;
+    max-height: 200px;
+    overflow: hidden;
+}
+aside {
+    float: left;
+    max-width: 190px;
+    border-bottom: 1px solid gray;
+    padding: 1em;
+    max-height: 200px;
+    background-color: DarkGrey;
+}
+
+header, footer{
+    padding: lem;
+    color: white;
+    background-color: RebeccaPurple;
+    clear: left;
+    text-align: center;
+}
+
+
